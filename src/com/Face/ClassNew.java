@@ -13,5 +13,11 @@ public class ClassNew {
 		System.out.println("3");
 
 	}
+	private void four() {
+		System.out.println("4");
 
+	}
+
+	
+	
 }
