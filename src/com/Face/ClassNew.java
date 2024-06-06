@@ -13,5 +13,9 @@ public class ClassNew {
 		System.out.println("3");
 
 	}
+	private void five() {
+		System.out.println("5");
+
+	}
 
 }
