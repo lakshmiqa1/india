@@ -22,6 +22,12 @@ public class ClassNew {
 		System.out.println("5");
 
 	}
+	private void six() {
+		System.out.println("6");
+
+	}
+	
+	
 
 
 	}
