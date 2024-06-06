@@ -22,10 +22,17 @@ public class ClassNew {
 		System.out.println("5");
 
 	}
+	private void six() {
+		System.out.println("6");
+
+	}
+	
+	
 	private void seven() {
 		System.out.println("7");
 
 	}
+
 
 
 	}
