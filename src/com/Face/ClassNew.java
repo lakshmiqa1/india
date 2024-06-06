@@ -28,6 +28,11 @@ public class ClassNew {
 	}
 	
 	
+	private void seven() {
+		System.out.println("7");
+
+	}
+
 
 
 	}
